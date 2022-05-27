@@ -6,6 +6,6 @@ Este proyecto tiene una maquetacion muy basica la cual esta echa a forma de apli
 
 [Enlace de despliege](http://www.limni.net)
 
-![Pagina de inicio](/imagenes/pagina-completa.png)
+![Pagina de inicio](/src/img/pagina-completa.png)
 
 \- Diseño y pagina por JosAnGoCa

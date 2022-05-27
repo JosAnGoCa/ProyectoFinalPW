@@ -1,0 +1,57 @@
+#section-promociones {
+    padding: 30px 0px;
+}
+
+#oferta-titulo {
+    font-size: 50px;
+    text-transform: uppercase;
+    text-align: center;
+    padding-bottom: 30px;
+    color: var(--quetzal-rojo-obscuro);
+}
+
+.promocion {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    padding-bottom: 20px;
+}
+
+.promocion-img,
+.promocion-img img {
+    width: 100%;
+}
+
+.promocion-desc {
+    padding: 30px 20px;
+}
+
+.promocion-desc_derecha {
+    text-align: right;
+}
+
+.promocion-desc h2 {
+    font-size: 40px;
+    color: var(--quetzal-verde-obscuro);
+}
+
+.promocion-desc .fecha {
+    color: #aaa;
+    padding-bottom: 20px;
+    font-size: 20px;
+}
+
+.promocion-desc .descripcion {
+    font-size: 24px;
+    padding-bottom: 20px;
+}
+
+.promocion-desc h4 {
+    text-decoration: line-through;
+    font-size: 25px;
+    color: #666;
+}
+
+.promocion-desc h3 {
+    font-size: 30px;
+    color: var(--quetzal-rojo-normal);
+}
